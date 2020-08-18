@@ -7,6 +7,9 @@
     <groupId>github.zyp</groupId>
     <artifactId>simple-message</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>message-producer</module>
+    </modules>
     <packaging>pom</packaging>
 
     <name>simple-message</name>
